@@ -23,6 +23,8 @@ body {
 }
 
 .subtitle {
+  text-align: justify;
+  text-justify: inter-word;
   margin-top: -10px;
   opacity: 0.9;
 }
